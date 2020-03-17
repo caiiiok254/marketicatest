@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/components/junior/product.detail/templates/.default/style.css" => "1584430464107",); ?>

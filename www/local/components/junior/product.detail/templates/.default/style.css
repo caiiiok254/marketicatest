@@ -1,0 +1,11 @@
+.wrap{
+	position: relative;
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 70px 0 40px;
+	overflow: hidden;
+}
+
+.product-list__img{
+	width:100%;
+}

@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/assets/fancybox/jquery.fancybox.min.js" => "158443046459725",); ?>

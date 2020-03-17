@@ -1,0 +1,817 @@
+Array
+(
+    [6e4afe93-7d2b-4e69-9527-9255a16eee5a] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 6e4afe93-7d2b-4e69-9527-9255a16eee5a
+            [isDeleted] => 
+            [name] => СПЕЦПРЕДЛОЖЕНИЯ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 
+        )
+
+    [e6ef7ce4-107c-41ec-8b61-14cef74af77f] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => e6ef7ce4-107c-41ec-8b61-14cef74af77f
+            [isDeleted] => 
+            [name] => Роллы акция
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 6e4afe93-7d2b-4e69-9527-9255a16eee5a
+        )
+
+    [82ead503-e2bc-494e-8ec1-ce2e41f4d259] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 82ead503-e2bc-494e-8ec1-ce2e41f4d259
+            [isDeleted] => 
+            [name] => ПИЦЦА
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 
+        )
+
+    [0a76328c-f76c-4715-9655-1f902b916e8f] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 0a76328c-f76c-4715-9655-1f902b916e8f
+            [isDeleted] => 
+            [name] => ПИРОГИ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 4
+            [parentGroup] => 
+        )
+
+    [d3650d61-e599-4ed3-b71c-7e505b7beac7] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => d3650d61-e599-4ed3-b71c-7e505b7beac7
+            [isDeleted] => 
+            [name] => ЯПОНСКАЯ КУХНЯ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 2
+            [parentGroup] => 
+        )
+
+    [2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa
+            [isDeleted] => 
+            [name] => ШАШЛЫКИ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 3
+            [parentGroup] => 
+        )
+
+    [9a3f67d2-db02-4e11-bae7-20e43f476acc] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 9a3f67d2-db02-4e11-bae7-20e43f476acc
+            [isDeleted] => 
+            [name] => ПАСТА
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 5
+            [parentGroup] => 
+        )
+
+    [a4ed22d0-dd71-4801-bc07-7ee15ce8b801] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => a4ed22d0-dd71-4801-bc07-7ee15ce8b801
+            [isDeleted] => 
+            [name] => ГАМБУРГЕРЫ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 6
+            [parentGroup] => 
+        )
+
+    [6f55f68f-5851-4cdf-9b5f-9e2736b55168] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 6f55f68f-5851-4cdf-9b5f-9e2736b55168
+            [isDeleted] => 
+            [name] => САЛАТЫ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 7
+            [parentGroup] => 
+        )
+
+    [03847506-4054-49ff-b9f4-e9fff9cab17e] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 03847506-4054-49ff-b9f4-e9fff9cab17e
+            [isDeleted] => 
+            [name] => СУПЫ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 8
+            [parentGroup] => 
+        )
+
+    [3805023d-8c46-4377-8e03-3e6193997d04] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 3805023d-8c46-4377-8e03-3e6193997d04
+            [isDeleted] => 
+            [name] => Лапша WOK
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 3
+            [parentGroup] => d3650d61-e599-4ed3-b71c-7e505b7beac7
+        )
+
+    [48302d7f-fd90-4b16-9e94-63256c65845f] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 48302d7f-fd90-4b16-9e94-63256c65845f
+            [isDeleted] => 
+            [name] => ГОРЯЧИЕ БЛЮДА
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 9
+            [parentGroup] => 
+        )
+
+    [56672254-33ac-4162-a7d9-6c6e3ecb6686] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 56672254-33ac-4162-a7d9-6c6e3ecb6686
+            [isDeleted] => 
+            [name] => Гарниры
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 48302d7f-fd90-4b16-9e94-63256c65845f
+        )
+
+    [e9c22fd9-992b-44fb-a4d4-ec01ebed7668] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => e9c22fd9-992b-44fb-a4d4-ec01ebed7668
+            [isDeleted] => 
+            [name] => Наборы для компаний
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 3
+            [parentGroup] => 2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa
+        )
+
+    [ee8b602f-013f-4294-a547-f0f59416ccc2] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => ee8b602f-013f-4294-a547-f0f59416ccc2
+            [isDeleted] => 
+            [name] => ДЕТСКОЕ МЕНЮ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 13
+            [parentGroup] => 
+        )
+
+    [219950b2-2b8d-422b-99e4-5c3ce124f631] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 219950b2-2b8d-422b-99e4-5c3ce124f631
+            [isDeleted] => 
+            [name] => НАПИТКИ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 10
+            [parentGroup] => 
+        )
+
+    [babaf856-5c55-4db4-abc8-1f30a3671e17] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => babaf856-5c55-4db4-abc8-1f30a3671e17
+            [isDeleted] => 
+            [name] => ЗАКУСКИ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 11
+            [parentGroup] => 
+        )
+
+    [8a60f3f2-f58e-4925-8f03-6d60e5a438e2] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 8a60f3f2-f58e-4925-8f03-6d60e5a438e2
+            [isDeleted] => 
+            [name] => ДЕСЕРТЫ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 12
+            [parentGroup] => 
+        )
+
+    [e188fe2a-dc35-42f2-8f6f-34f6ab5a3107] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => e188fe2a-dc35-42f2-8f6f-34f6ab5a3107
+            [isDeleted] => 
+            [name] => СОУСЫ
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 14
+            [parentGroup] => 
+        )
+
+    [42b65507-82ec-49f9-943c-bcdd7503a838] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 42b65507-82ec-49f9-943c-bcdd7503a838
+            [isDeleted] => 
+            [name] => Шашлык акция
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 6e4afe93-7d2b-4e69-9527-9255a16eee5a
+        )
+
+    [a40c639b-6a90-409b-9bad-93bff6dd8639] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => a40c639b-6a90-409b-9bad-93bff6dd8639
+            [isDeleted] => 
+            [name] => Пиццы акция
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 2
+            [parentGroup] => 6e4afe93-7d2b-4e69-9527-9255a16eee5a
+        )
+
+    [94ed9bd1-de2f-4eca-b13f-5b3197075399] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 94ed9bd1-de2f-4eca-b13f-5b3197075399
+            [isDeleted] => 
+            [name] => Сеты по акции
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 3
+            [parentGroup] => 6e4afe93-7d2b-4e69-9527-9255a16eee5a
+        )
+
+    [81e6ced7-d520-4a05-9ecb-f25392278544] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 81e6ced7-d520-4a05-9ecb-f25392278544
+            [isDeleted] => 
+            [name] => Наборы
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => d3650d61-e599-4ed3-b71c-7e505b7beac7
+        )
+
+    [ff85e070-8b1b-40ca-8881-269cdda39e93] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => ff85e070-8b1b-40ca-8881-269cdda39e93
+            [isDeleted] => 
+            [name] => Роллы
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 2
+            [parentGroup] => d3650d61-e599-4ed3-b71c-7e505b7beac7
+        )
+
+    [262a76b8-927b-4a4b-93ac-a321b8c2e149] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 262a76b8-927b-4a4b-93ac-a321b8c2e149
+            [isDeleted] => 
+            [name] => Запеченные роллы
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => d3650d61-e599-4ed3-b71c-7e505b7beac7
+        )
+
+    [6a422984-aad7-4d72-a30b-cb1b86c25d9d] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 6a422984-aad7-4d72-a30b-cb1b86c25d9d
+            [isDeleted] => 
+            [name] => Мясо на гриле
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa
+        )
+
+    [d042970e-f4af-4991-97ee-facae61052e0] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => d042970e-f4af-4991-97ee-facae61052e0
+            [isDeleted] => 
+            [name] => Рыба на гриле
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa
+        )
+
+    [d6015f6e-b304-446e-9f6d-00cb513d4d2a] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => d6015f6e-b304-446e-9f6d-00cb513d4d2a
+            [isDeleted] => 
+            [name] => Стейки
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 2
+            [parentGroup] => 2e9f7bea-fa52-40f4-a4cc-a21e7c59e7aa
+        )
+
+    [6147d323-924a-4ebd-91fb-97c4f94a93da] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 6147d323-924a-4ebd-91fb-97c4f94a93da
+            [isDeleted] => 
+            [name] => Пироги
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 0a76328c-f76c-4715-9655-1f902b916e8f
+        )
+
+    [3a21ddb3-190c-4c64-9766-83a7f224fe4a] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 3a21ddb3-190c-4c64-9766-83a7f224fe4a
+            [isDeleted] => 
+            [name] => Хачапури
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 0a76328c-f76c-4715-9655-1f902b916e8f
+        )
+
+    [be4c1351-8363-4dcf-a004-5da22a716c52] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => be4c1351-8363-4dcf-a004-5da22a716c52
+            [isDeleted] => 
+            [name] => Блины
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 2
+            [parentGroup] => 0a76328c-f76c-4715-9655-1f902b916e8f
+        )
+
+    [fbbefd3f-56e9-4ab2-945a-bed8989cb282] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => fbbefd3f-56e9-4ab2-945a-bed8989cb282
+            [isDeleted] => 
+            [name] => Хлебные изделия
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 3
+            [parentGroup] => 0a76328c-f76c-4715-9655-1f902b916e8f
+        )
+
+    [b99bbbf3-4b34-43f7-ad92-9c81eb7ad048] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => b99bbbf3-4b34-43f7-ad92-9c81eb7ad048
+            [isDeleted] => 
+            [name] => Горячие блюда
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 48302d7f-fd90-4b16-9e94-63256c65845f
+        )
+
+    [7e2c0e9a-b63d-499e-b7da-514fe136d9cf] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 7e2c0e9a-b63d-499e-b7da-514fe136d9cf
+            [isDeleted] => 
+            [name] => Коктейли
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => 219950b2-2b8d-422b-99e4-5c3ce124f631
+        )
+
+    [99e78469-e4ce-42e6-aaf8-57f830c215c6] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 99e78469-e4ce-42e6-aaf8-57f830c215c6
+            [isDeleted] => 
+            [name] => Прохладительные напитки
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => 219950b2-2b8d-422b-99e4-5c3ce124f631
+        )
+
+    [411aa433-a2fe-4459-8a36-1d3568a0e66f] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 411aa433-a2fe-4459-8a36-1d3568a0e66f
+            [isDeleted] => 
+            [name] => Горячие закуски
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 1
+            [parentGroup] => babaf856-5c55-4db4-abc8-1f30a3671e17
+        )
+
+    [5c79257b-6672-4c4a-8151-8543f7c89600] => Array
+        (
+            [additionalInfo] => 
+            [code] => 
+            [description] => 
+            [id] => 5c79257b-6672-4c4a-8151-8543f7c89600
+            [isDeleted] => 
+            [name] => Холодные закуски
+            [seoDescription] => 
+            [seoKeywords] => 
+            [seoText] => 
+            [seoTitle] => 
+            [tags] => 
+            [images] => Array
+                (
+                )
+
+            [isIncludedInMenu] => 1
+            [order] => 0
+            [parentGroup] => babaf856-5c55-4db4-abc8-1f30a3671e17
+        )
+
+)

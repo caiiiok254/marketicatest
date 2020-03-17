@@ -1,0 +1,171 @@
+    .product__wrap{
+        position: relative;
+        max-width: 940px;
+        margin: 0 auto;
+        padding: 70px 0 40px;
+        overflow: hidden;
+	}
+	
+	.product__title{
+		margin-top: 0;
+		text-align:center;
+		font: 34px/38px 'RobotoLight', Helvetica, Arial, sans-serif;
+		margin-bottom: 40px;
+	}
+	
+	.product-list{
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+	}
+	
+	.product-list__item{
+		position: relative;
+		float: left;
+		width: 100%;
+		height:180px;
+		padding: 10px 10px;
+		overflow: hidden;
+		background-color: #ececec;
+		box-sizing: border-box;
+	}
+
+	@media screen and (min-width: 480px) {
+		.product-list__item {
+			width: 50%;
+		}
+	}
+	@media screen and (min-width: 780px) {
+		.product-list__item {
+			width: 33%;
+		}
+	}
+
+	.product-list__img{
+		width:100%;
+	}
+	
+	.product-list__left .product-text{
+		position: absolute;
+		left: 0;
+		height:100%;
+		padding-right: 90px;
+	}
+	
+	.product-list__right .product-text{
+		
+		position: absolute;
+		right: 0;
+		height:100%;
+		padding-left: 90px;	
+		
+	}	
+	
+	.product-text__valign{
+
+		display: table-cell;
+		vertical-align: middle;
+	}
+	
+	.product-list__left .product-list__media{
+		float: right;
+		width: 32%;
+		box-sizing: border-box;
+		overflow: hidden;
+		vertical-align: middle;
+		display: table;
+	}
+	
+	.product-list__right .product-list__media{
+    float: left;
+    width: 32%;
+    box-sizing: border-box;
+    overflow: hidden;	
+    vertical-align: middle;
+    display: table;
+	}
+    
+	.fancybox-productPopup{
+		width: 100%;
+		display: table-cell;
+	}
+	
+	.product-list__media img{
+		    width: 100%;
+		    vertical-align: middle;
+	}
+	
+	.product__spoiler{
+		display:inline-block;
+		width:100%;
+		height:50px;
+		box-sizing: border-box;
+	}
+	
+	.btn-spolier {
+		padding: 5px 0 0 0;
+		border-bottom: dotted 1px #000;
+		display: inline-block;
+		cursor:pointer;
+	}
+
+    
+	.spoiler-hide{ display:none; }
+	
+	.product__noimage .product-text,
+	.product__noimage .product-list__media
+	{
+		min-height: 200px;		
+        
+	}
+
+	
+	.product-text{
+		font: 15px/24px 'RobotoLight', Helvetica, Arial, sans-serif;  
+		
+	}
+	
+	.product__table{
+    width: 100%;
+    height: 100%;
+    display: table;
+	}
+	
+	
+	.product-list__text{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+	font-family: 'Arial';
+	font-size:16px;
+	}
+	
+	.product-list__item:last-child .product-list__text:after{
+		content: '';
+		width: 100%;
+		height: 200px;
+		position: absolute;
+		left: 0;
+		bottom: -201px;
+		background-color: #fff;
+
+	}
+	
+	.product-list__item:nth-child(2n){
+	
+		background-color:#fff;
+		
+	}
+	
+	
+	.product-list__item:nth-child(2n) .product-list__vline{
+		
+		background-color:#ccc;
+		
+	}
+	
+	.product-list__item:nth-child(2n) .product-text__valign{
+		
+		padding-left: 0;
+		
+	}

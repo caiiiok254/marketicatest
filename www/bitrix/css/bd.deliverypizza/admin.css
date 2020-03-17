@@ -1,0 +1,102 @@
+#global_menu_global_menu_bd_delivery_pizza .adm-main-menu-item-icon{
+    background: url(admin-icon.png) no-repeat 19px 10px !important;
+}
+#adm-workarea{
+	height:100%;
+	box-sizing:border-box;
+}
+#bd_admin_area{
+	position:relative;
+	overflow:hidden;
+	min-height:50px;
+}
+#bd_admin_area iframe{
+	border:medium none;
+	height:100%;
+	position:relative;
+	width:100%;
+	z-index:1;
+	box-sizing:border-box;
+}
+#bd_admin_area.bd-admin-ready iframe{
+	border:1px solid #cfd8d7;
+	background-color:white;
+}
+
+ @-moz-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-webkit-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-ms-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-o-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+
+@keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+
+
+.bd-admin-loader{
+	-webkit-animation: rotate-big step-start .8s infinite normal;
+    -moz-animation: rotate-big step-start .8s infinite normal;
+    -ms-animation: rotate-big step-start .8s infinite normal;
+    -o-animation: rotate-big step-start .8s infinite normal;
+    animation: rotate-big step-start .8s infinite normal;
+    background: url("spinner_bd.png"); 
+	border:medium none;
+	content:" ";
+	display:block;
+	position:absolute;
+	width: 45px;
+    height: 45px;
+	top:0;
+	left:0;
+}
+.bd-admin-ready .bd-admin-loader{
+	display:none;
+}

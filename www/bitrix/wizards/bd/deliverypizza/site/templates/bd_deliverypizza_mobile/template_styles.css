@@ -1,0 +1,29 @@
+.gift-item.masked{ 
+	border-bottom: none;
+}
+
+.gift-item.masked .mask{
+	border-radius: 3px;
+}
+
+.gift-item.active{
+	border-radius: 3px;
+	border-bottom: none;
+}
+.gift-item.active::after {
+	top: 20px;
+	left: 18px;
+}
+
+.gifts-list .gift-item .gift-description .get-another-gift {
+	padding: 16px 20px;
+	margin-top: 22px;
+}
+
+.gifts-list .gift-item:last-child {
+	margin-bottom: 15px;
+}
+
+.basket .basket-item .section {
+	padding-bottom: 5px;
+}

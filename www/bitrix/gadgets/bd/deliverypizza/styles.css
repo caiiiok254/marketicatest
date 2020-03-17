@@ -1,0 +1,227 @@
+.bd-gadgets-pizza {
+    background: rgba(0, 0, 0, 0) url("images/background.png") no-repeat scroll right top;
+    overflow: hidden;
+    position: relative;
+    margin: -15px -30px -15px -11px;
+    padding: 11px 120px 17px 14px;
+    border: 1px solid;
+    border-color: #fafcfe #e6f0f5 #c6cfd6 #c6cfd6;
+    border-radius: 4px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 100%;
+    min-width: 355px;
+}
+
+.bd-gadgets-pizza.bd-gadgets-ready .bd-gadgets-content-layout {
+    display: block;
+    overflow: hidden;
+}
+
+.bd-gadgets-pizza .bd-gadgets-title {
+    color: #1a1b1c;
+    font-size: 22px;
+    padding-left: 4px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.1);
+    margin-bottom: 5px;
+    overflow: hidden;
+    word-break: break-all;
+    height: 26px;
+}
+
+.bd-gadgets-pizza .bd-gadgets-title2 {
+    color: #51565c;
+    font-size: 14px;
+    padding-left: 4px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    height: 45px;
+}
+
+.bd-gadgets-pizza .bd-gadgets-title2.pink {
+    color: #ff393d;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+.bd-gadgets-pizza .bd-gadget-bottom {
+    overflow: hidden;
+    padding-top: 3px;
+    white-space: nowrap;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button {
+    border-radius: 3px;
+    margin-top: -3px;
+    border: 1px solid;
+    display: inline-block;
+    height: 15px;
+    margin-right: 16px;
+    padding: 11px 13px 12px 39px;
+    position: relative;
+    vertical-align: top;
+    width: 75px;
+    float: left;
+    box-shadow: 0 1px 0 0 rgba(98, 126, 0, 0.15);
+    border-color: #87a800;
+    background-color: #87a800;
+    background: #87a800;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button .bd-gadgets-button-lamp {
+    background: rgba(0, 0, 0, 0) url("images/icons.png") no-repeat scroll -22px 0;
+    bottom: 12px;
+    height: 15px;
+    left: 12px;
+    position: absolute;
+    width: 15px;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button .bd-gadgets-button-text {
+    line-height: 16px;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    text-shadow: 0 -1px 0 rgba(106, 109, 111, 0.3);
+}
+
+.bd-gadgets-pizza .bd-gadgets-button:hover {
+	border-color: #a1c300;
+    background-color: #a1c300;
+    background: #a1c300;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button.bd-gadgets-button-buy {
+    box-shadow: 0 1px 0 0 rgba(183, 82, 0, 0.15);
+    border-color: #2bc7b2;
+    background: #2bc7b2;
+    background-color: #2bc7b2;
+    padding-left: 17px;
+    width: 149px;
+    float: none;
+    margin-right: 0;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button.bd-gadgets-button-buy:hover {
+    border-color: #26d8bd;
+    background: #26d8bd;
+    background-color: #26d8bd;
+}
+
+.bd-gadgets-pizza .bd-gadgets-button.bd-gadgets-button-buy .bd-gadgets-button-text {
+    text-shadow: 0 -1px 0 rgba(106, 109, 111, 0.3);
+}
+
+.bd-gadgets-pizza .bd-gadgets-desc {
+    color: #2d2f31;
+    font-size: 12px;
+    font-weight: bold;
+    height: 31px;
+    overflow: hidden;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    vertical-align: top;
+}
+
+.bd-gadgets-pizza .bd-gadgets-logo-pizza {
+    background: rgba(0, 0, 0, 0) url("images/logo.png") no-repeat scroll 0 0;
+    width: 102px;
+    height: 104px;
+    position: absolute;
+    right: 22px;
+    top: 18px;
+}
+
+ @-moz-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-webkit-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-ms-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+@-o-keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+
+@keyframes rotate-big {
+0% {background-position: 0 0;}
+13% {background-position: -45px 0;}
+26% {background-position: -90px 0;}
+39% {background-position: -135px 0;}
+52% {background-position: -180px 0;}
+65% {background-position: -225px 0;}
+78% {background-position: -270px 0;}
+91% {background-position: -315px 0;}
+100% {background-position: 0 0;}
+}
+
+
+.bd-gadgets-pizza .bd-gadgets-spinner {
+	width: 45px;
+    height: 45px;
+    position: absolute;
+    margin: -18px 0 0 -18px;
+    left: 50%;
+    top: 50%;
+    -webkit-animation: rotate-big step-start .8s infinite normal;
+    -moz-animation: rotate-big step-start .8s infinite normal;
+    -ms-animation: rotate-big step-start .8s infinite normal;
+    -o-animation: rotate-big step-start .8s infinite normal;
+    animation: rotate-big step-start .8s infinite normal;
+    background: url("images/spinner_bd.png"); 
+}
+
+.bd-gadgets-pizza.bd-gadgets-ready .bd-gadgets-spinner,
+.bd-gadgets-pizza .bd-gadgets-content-layout {
+    display: none;
+}
+
+.bd-gadgets-pizza + .bx-gadgets-color-config-close {
+    background: rgba(0, 0, 0, 0) url("images/icons.png") no-repeat scroll 0 0;
+    height: 20px;
+    position: absolute;
+    right: 15px;
+    top: 6px;
+    width: 20px;
+    display: none;
+}
+
+.bd-gadgets-pizza:hover + .bx-gadgets-color-config-close,
+.bd-gadgets-pizza + .bx-gadgets-color-config-close:hover {
+    display: block;
+}
+
+.bd-gadgets-pizza + .bx-gadgets-color-config-close + .bx-gadgets-side {
+    background: rgba(0, 0, 0, 0) url("images/dotted.png") repeat-y scroll left top;
+}

@@ -1,0 +1,3466 @@
+Array
+(
+    [0] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 480
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ролл под шубой 9 шт
+                    [CODE] => roll-pod-shuboy-9-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => a44295a9-691f-4a38-a1a2-174f780d98b0
+                    [~XML_ID] => a44295a9-691f-4a38-a1a2-174f780d98b0
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => рис, нори, куриное филе копченое, огурец, томат, майонез, кляр, сухари панировачные (васаби, имбирь маринованый, соевый соус не идет)
+                    [DETAIL_TEXT] => рис, нори, куриное филе копченое, огурец, томат, майонез, кляр, сухари панировачные (васаби, имбирь маринованый, соевый соус не идет)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854471427
+                    [FATS] => 61.1616
+                    [PROTEINS] => 27.44
+                    [CARBOHYDRATES] => 164.3328
+                    [CALORIFIC_VALUE] => 1317.536
+                    [PRICE] => 130
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [1] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 480
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сяке маке с лососем 6 шт
+                    [CODE] => syake-make-s-lososem-6-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => b46e552d-2110-421a-aaf3-4d380e743648
+                    [~XML_ID] => b46e552d-2110-421a-aaf3-4d380e743648
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => рис, нори, лосось
+                    [DETAIL_TEXT] => рис, нори, лосось
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 55223554125854240435
+                    [FATS] => 3.784
+                    [PROTEINS] => 9.4864
+                    [CARBOHYDRATES] => 66.0792
+                    [CALORIFIC_VALUE] => 322.5068
+                    [PRICE] => 140
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [2] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 498
+                    [IBLOCK_ID] => 10
+                    [NAME] => Мясной азарт 1 кг 500 гр
+                    [CODE] => myasnoy-azart-1-kg-500-gr
+                    [ACTIVE] => Y
+                    [XML_ID] => 2442068e-77f5-4089-8726-c148ac456fe6
+                    [~XML_ID] => 2442068e-77f5-4089-8726-c148ac456fe6
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => печень говяжья обжареная 250 гр, шашлык из свинины 500 гр, шашлык из куриного бедра 500 гр, капуста Ким-чи 250 гр
+                    [DETAIL_TEXT] => печень говяжья обжареная 250 гр, шашлык из свинины 500 гр, шашлык из куриного бедра 500 гр, капуста Ким-чи 250 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854469069
+                    [FATS] => 221.49
+                    [PROTEINS] => 209.64
+                    [CARBOHYDRATES] => 99.435
+                    [CALORIFIC_VALUE] => 3229.65
+                    [PRICE] => 1290
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [3] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 498
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык ассорти куриное 1 кг 200 гр
+                    [CODE] => shashlyk-assorti-kurinoe-1-kg-200-gr
+                    [ACTIVE] => Y
+                    [XML_ID] => 205ca24b-4bce-4855-b361-ecaf05b4a41b
+                    [~XML_ID] => 205ca24b-4bce-4855-b361-ecaf05b4a41b
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => шашлык из куриного бедра 500 гр, шашлык из куриных крыльев 500 гр, капуста Ким-чи 200 гр
+                    [DETAIL_TEXT] => шашлык из куриного бедра 500 гр, шашлык из куриных крыльев 500 гр, капуста Ким-чи 200 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854469066
+                    [FATS] => 111.624
+                    [PROTEINS] => 339.204
+                    [CARBOHYDRATES] => 10.872
+                    [CALORIFIC_VALUE] => 2404.884
+                    [PRICE] => 750
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [4] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 499
+                    [IBLOCK_ID] => 10
+                    [NAME] => Добрый Вилли
+                    [CODE] => dobryy-villi
+                    [ACTIVE] => Y
+                    [XML_ID] => cafa8bd9-cef8-473c-b31b-1c627e83ff39
+                    [~XML_ID] => cafa8bd9-cef8-473c-b31b-1c627e83ff39
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => Пикантный томатный соус, сыр, пышное тесто, зелень, говядина отварная, маслины, томат, маринованый огурец
+                    [DETAIL_TEXT] => Пикантный томатный соус, сыр, пышное тесто, зелень, говядина отварная, маслины, томат, маринованый огурец
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864333125854471146
+                    [FATS] => 35.3162
+                    [PROTEINS] => 74.6634
+                    [CARBOHYDRATES] => 168.8844
+                    [CALORIFIC_VALUE] => 1292.0428
+                    [PRICE] => 290
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [5] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 499
+                    [IBLOCK_ID] => 10
+                    [NAME] => Пицца Деревенская
+                    [CODE] => pitstsa-derevenskaya
+                    [ACTIVE] => Y
+                    [XML_ID] => c293f49c-7c22-478b-8cd8-1bcd06342499
+                    [~XML_ID] => c293f49c-7c22-478b-8cd8-1bcd06342499
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => Пикантный томатный соус, копченая куриное филе, ветчина, томаты, маринованные огурчики, зелень, сыр
+                    [DETAIL_TEXT] => Пикантный томатный соус, копченая куриное филе, ветчина, томаты, маринованные огурчики, зелень, сыр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 13152453328805772710
+                    [FATS] => 29.4372
+                    [PROTEINS] => 60.398
+                    [CARBOHYDRATES] => 155.8908
+                    [CALORIFIC_VALUE] => 1155.7156
+                    [PRICE] => 249
+                )
+
+        )
+
+    [6] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 500
+                    [IBLOCK_ID] => 10
+                    [NAME] => 1.5 М РОЛЛОВ ПИРАМИДА
+                    [CODE] => 1-5-m-rollov-piramida
+                    [ACTIVE] => Y
+                    [XML_ID] => e8bff28f-1d64-40d5-96c1-146984c91973
+                    [~XML_ID] => e8bff28f-1d64-40d5-96c1-146984c91973
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => рис, нори, сливочный сыр, лосось
+                    [DETAIL_TEXT] => рис, нори, сливочный сыр, лосось
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 15152453328805774183
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 1200
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [7] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 500
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет филадельфия
+                    [CODE] => set-filadelfiya
+                    [ACTIVE] => Y
+                    [XML_ID] => d8dee595-fe9a-47c5-add5-b172793e1fdd
+                    [~XML_ID] => d8dee595-fe9a-47c5-add5-b172793e1fdd
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => роллы: ФИЛАДЕЛЬФИЯ БЛЭК (рис, нори, сливочный сыр, икра лосося, икра тобико, лосось, угорь копченый, огурец), ФИЛАДЕЛЬФИЯ ЛАЙТ (рис, нори, сливочный сыр, лосось), ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, авокадо, лосось, сливочный сыр), ФИЛАДЕЛЬФИЯ С ОГУРЦОМ (рис, нори, огурец, лосось, сливочный сыр), ФИЛАДЕЛЬФИЯ МАСАГО (рис, нори, сливочный сыр, икра масаго)
+                    [DETAIL_TEXT] => роллы: ФИЛАДЕЛЬФИЯ БЛЭК (рис, нори, сливочный сыр, икра лосося, икра тобико, лосось, угорь копченый, огурец), ФИЛАДЕЛЬФИЯ ЛАЙТ (рис, нори, сливочный сыр, лосось), ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, авокадо, лосось, сливочный сыр), ФИЛАДЕЛЬФИЯ С ОГУРЦОМ (рис, нори, огурец, лосось, сливочный сыр), ФИЛАДЕЛЬФИЯ МАСАГО (рис, нори, сливочный сыр, икра масаго)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 13152453328805772719
+                    [FATS] => 94.9325
+                    [PROTEINS] => 121.187
+                    [CARBOHYDRATES] => 580.934
+                    [CALORIFIC_VALUE] => 3662.911
+                    [PRICE] => 1450
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [8] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 501
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет Лидер
+                    [CODE] => set-lider
+                    [ACTIVE] => Y
+                    [XML_ID] => e26ebb80-65e7-4b3e-be7c-4e9388760f15
+                    [~XML_ID] => e26ebb80-65e7-4b3e-be7c-4e9388760f15
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => роллы: ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, лосось, сливочный сыр, авокадо), ШАХМАТЫ (рис, нори, лист салата, тигровая креветка, огурец, икра тобико), ЛАВА (рис, нори, лосось, сливочный сыр, соус лава), ВОСХОД СОЛНЦА (рис, нори, сливочный сыр, лосось, красная икра лосося), ФУТОМАКИ (рис, нори, омлет Японский, копченый угорь, огурец, грибы Шитаке)
+                    [DETAIL_TEXT] => роллы: ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, лосось, сливочный сыр, авокадо), ШАХМАТЫ (рис, нори, лист салата, тигровая креветка, огурец, икра тобико), ЛАВА (рис, нори, лосось, сливочный сыр, соус лава), ВОСХОД СОЛНЦА (рис, нори, сливочный сыр, лосось, красная икра лосося), ФУТОМАКИ (рис, нори, омлет Японский, копченый угорь, огурец, грибы Шитаке)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470779
+                    [FATS] => 89.837
+                    [PROTEINS] => 97.394
+                    [CARBOHYDRATES] => 486.816
+                    [CALORIFIC_VALUE] => 3145.417
+                    [PRICE] => 1400
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [9] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 501
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет Восточная сказка
+                    [CODE] => set-vostochnaya-skazka
+                    [ACTIVE] => Y
+                    [XML_ID] => 3a93b724-08f0-4f23-aa43-6a3141d1e8aa
+                    [~XML_ID] => 3a93b724-08f0-4f23-aa43-6a3141d1e8aa
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => роллы: ВОСТОЧНАЯ СКАЗКА (рис, нори, крабовые палочки, зеленый лук, лосось, красная икра лосося, авокадо, спайси соус), ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, лосось, авокадо, сливочный сыр), ПИРАМИДА (рис, нори, лосось, сливочный сыр), МАХО (рис, нори, лосось, тигровая креветка, икра лосося), НОРИТТА (рис, нори, сыр Фета, помидор, огурец, лосось, соус Терияке), Ролл с лососем (рис, нори, лосось), Суши с лососем (рис, нори, лосось)
+                    [DETAIL_TEXT] => роллы: ВОСТОЧНАЯ СКАЗКА (рис, нори, крабовые палочки, зеленый лук, лосось, красная икра лосося, авокадо, спайси соус), ФИЛАДЕЛЬФИЯ С АВОКАДО (рис, нори, лосось, авокадо, сливочный сыр), ПИРАМИДА (рис, нори, лосось, сливочный сыр), МАХО (рис, нори, лосось, тигровая креветка, икра лосося), НОРИТТА (рис, нори, сыр Фета, помидор, огурец, лосось, соус Терияке), Ролл с лососем (рис, нори, лосось), Суши с лососем (рис, нори, лосось)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470776
+                    [FATS] => 97.1106
+                    [PROTEINS] => 142.968
+                    [CARBOHYDRATES] => 584.6922
+                    [CALORIFIC_VALUE] => 3784.6914
+                    [PRICE] => 2050
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [10] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 503
+                    [IBLOCK_ID] => 10
+                    [NAME] => Киото 8 шт
+                    [CODE] => kioto-8-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => 73bd9ef6-985a-4f75-a9f0-a1c656e1fd00
+                    [~XML_ID] => 73bd9ef6-985a-4f75-a9f0-a1c656e1fd00
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => рис, нори, сливочный сыр, огурец, семга п/к, кляр (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                    [DETAIL_TEXT] => рис, нори, сливочный сыр, огурец, семга п/к, кляр (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470741
+                    [FATS] => 12.298
+                    [PROTEINS] => 19.5096
+                    [CARBOHYDRATES] => 100.8304
+                    [CALORIFIC_VALUE] => 573.6104
+                    [PRICE] => 299
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [11] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 503
+                    [IBLOCK_ID] => 10
+                    [NAME] => Нагано 8 шт
+                    [CODE] => nagano-8-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => 544982db-a4b0-46fc-ae13-7c9dd9f0c1f0
+                    [~XML_ID] => 544982db-a4b0-46fc-ae13-7c9dd9f0c1f0
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => рис, нори, крабовые палочки, сыр сливочный , авокадо, угорь копченый
+                    [DETAIL_TEXT] => рис, нори, крабовые палочки, сыр сливочный , авокадо, угорь копченый
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470746
+                    [FATS] => 14.938
+                    [PROTEINS] => 13.722
+                    [CARBOHYDRATES] => 96.23
+                    [CALORIFIC_VALUE] => 556.048
+                    [PRICE] => 299
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [12] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 502
+                    [IBLOCK_ID] => 10
+                    [NAME] => Филадельфия с огурцом 8 шт
+                    [CODE] => filadelfiya-s-ogurtsom-8-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => 6686dbe9-3adf-47c9-8587-8fd4c8f7a9dd
+                    [~XML_ID] => 6686dbe9-3adf-47c9-8587-8fd4c8f7a9dd
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => рис, нори, лосось, огурец, сыр сливочный (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                    [DETAIL_TEXT] => рис, нори, лосось, огурец, сыр сливочный (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470732
+                    [FATS] => 22.6642
+                    [PROTEINS] => 25.636
+                    [CARBOHYDRATES] => 90.1446
+                    [CALORIFIC_VALUE] => 667.1054
+                    [PRICE] => 380
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [13] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 502
+                    [IBLOCK_ID] => 10
+                    [NAME] => Филадельфия с авокадо 8 шт
+                    [CODE] => filadelfiya-s-avokado-8-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => c61c4c5b-8da1-48a6-96b4-2203c0436dd3
+                    [~XML_ID] => c61c4c5b-8da1-48a6-96b4-2203c0436dd3
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => рис, нори, лосось, сыр сливочный, авокадо
+                    [DETAIL_TEXT] => рис, нори, лосось, сыр сливочный, авокадо
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854470733
+                    [FATS] => 26.6448
+                    [PROTEINS] => 25.8752
+                    [CARBOHYDRATES] => 90.8648
+                    [CALORIFIC_VALUE] => 706.7658
+                    [PRICE] => 390
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [14] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 489
+                    [IBLOCK_ID] => 10
+                    [NAME] => Гречневая лапша Вок
+                    [CODE] => grechnevaya-lapsha-vok
+                    [ACTIVE] => Y
+                    [XML_ID] => 53672445-7818-4974-bd24-12d6d0686545
+                    [~XML_ID] => 53672445-7818-4974-bd24-12d6d0686545
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => гречневая лапша, лук, морковь, перец болгарский, цукини, баклажан, соевый соус, соус Яки удон, кунжут, говядина
+                    [DETAIL_TEXT] => гречневая лапша, лук, морковь, перец болгарский, цукини, баклажан, соевый соус, соус Яки удон, кунжут, говядина
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 998633339995652
+                    [FATS] => 12.978
+                    [PROTEINS] => 21.483
+                    [CARBOHYDRATES] => 24.294
+                    [CALORIFIC_VALUE] => 299.913
+                    [PRICE] => 340
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [15] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 504
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык из свинины
+                    [CODE] => shashlyk-iz-svininy
+                    [ACTIVE] => Y
+                    [XML_ID] => c5b9ff4c-a58c-41ac-9e21-fc1be8584a4d
+                    [~XML_ID] => c5b9ff4c-a58c-41ac-9e21-fc1be8584a4d
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => нежное свиная шея в пряном маринаде, минимальный выход порции от 0,200 гр
+                    [DETAIL_TEXT] => нежное свиная шея в пряном маринаде, минимальный выход порции от 0,200 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462144
+                    [FATS] => 36.175
+                    [PROTEINS] => 19.829
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 404.891
+                    [PRICE] => 220
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [16] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 504
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык из баранины
+                    [CODE] => shashlyk-iz-baraniny
+                    [ACTIVE] => Y
+                    [XML_ID] => df3f2952-f1cc-4280-9218-4fbae2cd52ab
+                    [~XML_ID] => df3f2952-f1cc-4280-9218-4fbae2cd52ab
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => классический шашлык из молодой баранины, минимальный выход порции от 0,200 гр
+                    [DETAIL_TEXT] => классический шашлык из молодой баранины, минимальный выход порции от 0,200 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462142
+                    [FATS] => 15.3
+                    [PROTEINS] => 16.3
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 203
+                    [PRICE] => 240
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [17] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 505
+                    [IBLOCK_ID] => 10
+                    [NAME] => Дорадо на гриле
+                    [CODE] => dorado-na-grile
+                    [ACTIVE] => Y
+                    [XML_ID] => 9f78fb07-1526-41b4-bb44-dda3110809b1
+                    [~XML_ID] => 9f78fb07-1526-41b4-bb44-dda3110809b1
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => дорадо, обжареная до золотистой корочки на гриле
+                    [DETAIL_TEXT] => дорадо, обжареная до золотистой корочки на гриле
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864256635854473777
+                    [FATS] => 54.55
+                    [PROTEINS] => 55.9
+                    [CARBOHYDRATES] => 69.145
+                    [CALORIFIC_VALUE] => 991.145
+                    [PRICE] => 999
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [18] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 506
+                    [IBLOCK_ID] => 10
+                    [NAME] => Стейк из свиной шеи с печеным картофелем
+                    [CODE] => steyk-iz-svinoy-shei-s-pechenym-kartofelem
+                    [ACTIVE] => Y
+                    [XML_ID] => db1fc14b-4b51-4c18-833c-665195891e9b
+                    [~XML_ID] => db1fc14b-4b51-4c18-833c-665195891e9b
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => свиная шея, микс салата, чеснок, отварной картофель, редис, перец Чили, перец Болгарский 
+                    [DETAIL_TEXT] => свиная шея, микс салата, чеснок, отварной картофель, редис, перец Чили, перец Болгарский 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125866670253
+                    [FATS] => 74.3064
+                    [PROTEINS] => 44.114
+                    [CARBOHYDRATES] => 12.9808
+                    [CALORIFIC_VALUE] => 897.1256
+                    [PRICE] => 480
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [19] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 492
+                    [IBLOCK_ID] => 10
+                    [NAME] => Веселая поляна
+                    [CODE] => veselaya-polyana
+                    [ACTIVE] => Y
+                    [XML_ID] => 5b6a5c4e-49fa-404a-9a78-28d3667c57db
+                    [~XML_ID] => 5b6a5c4e-49fa-404a-9a78-28d3667c57db
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => свиной шашлык, куриный шашлык, стейк свиной, колбаски домашние, овощи гриль, маринованные огурцы, капуста маринованная и лимончик, соусы: фирменый, барбекю, ягодный
+                    [DETAIL_TEXT] => свиной шашлык, куриный шашлык, стейк свиной, колбаски домашние, овощи гриль, маринованные огурцы, капуста маринованная и лимончик, соусы: фирменый, барбекю, ягодный
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995671
+                    [FATS] => 216.1352
+                    [PROTEINS] => 147.5834
+                    [CARBOHYDRATES] => 56.486
+                    [CALORIFIC_VALUE] => 2761.4578
+                    [PRICE] => 1490
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [20] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 492
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ассорти гриль 1 кг
+                    [CODE] => assorti-gril-1-kg
+                    [ACTIVE] => Y
+                    [XML_ID] => 55651bb6-70c3-4142-a2f5-44ea9ed72140
+                    [~XML_ID] => 55651bb6-70c3-4142-a2f5-44ea9ed72140
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => Картофель фри, шашлык из телятины, свиные ребра, язык на гриле, куриные колбаски, куриные крылья
+                    [DETAIL_TEXT] => Картофель фри, шашлык из телятины, свиные ребра, язык на гриле, куриные колбаски, куриные крылья
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995670
+                    [FATS] => 117.28
+                    [PROTEINS] => 185.29
+                    [CARBOHYDRATES] => 45
+                    [CALORIFIC_VALUE] => 1977.05
+                    [PRICE] => 2100
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [21] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 507
+                    [IBLOCK_ID] => 10
+                    [NAME] => Пирог с красной рыбой 1 кг
+                    [CODE] => pirog-s-krasnoy-ryboy-1-kg
+                    [ACTIVE] => Y
+                    [XML_ID] => fb746ccd-d799-4ba1-8a85-8ed950fb4a16
+                    [~XML_ID] => fb746ccd-d799-4ba1-8a85-8ed950fb4a16
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => лук репчатый, перец душистый, красная рыба, пшеничное тесто, зелень, чесночная паста, соус Бешамель
+                    [DETAIL_TEXT] => лук репчатый, перец душистый, красная рыба, пшеничное тесто, зелень, чесночная паста, соус Бешамель
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632798
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 600
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [22] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 508
+                    [IBLOCK_ID] => 10
+                    [NAME] => Хачапури из слоенного теста
+                    [CODE] => khachapuri-iz-sloennogo-testa
+                    [ACTIVE] => Y
+                    [XML_ID] => 8e3bee28-b59a-4887-8ea5-7dc481bdb0c6
+                    [~XML_ID] => 8e3bee28-b59a-4887-8ea5-7dc481bdb0c6
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => слоеное тесто с сыром Сулугуни 
+                    [DETAIL_TEXT] => слоеное тесто с сыром Сулугуни 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462158
+                    [FATS] => 67.207
+                    [PROTEINS] => 40.6455
+                    [CARBOHYDRATES] => 102.858
+                    [CALORIFIC_VALUE] => 1178.884
+                    [PRICE] => 350
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [23] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 509
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет из блинов
+                    [CODE] => set-iz-blinov
+                    [ACTIVE] => Y
+                    [XML_ID] => 20dc0126-d291-428c-b9c7-5b3474ee8a09
+                    [~XML_ID] => 20dc0126-d291-428c-b9c7-5b3474ee8a09
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => 1. блин со сгущенкой (тесто для блинчиков, молоко сгущенное-50 гр )
+2. блин с икрой (тесто для блинчиков, икра красная-15 гр, масло сливоч-5 гр)
+3. блин с ветчиной и сыром (тесто для блинчиков, ветчина-35 гр, сыр сулугуни-15 гр)
+4. блин с грибами (жульен из цыпленка с грибами)
+5. блин с лососем (тесто для блинчиков, семга с/с-50 гр)
+6. блин с копченой курицей, сыром и помидорами (тесто для блинчиков, куриная грудка копченая-25 гр, сыр сулугуни-10 гр, помидоры-15 гр)
+                    [DETAIL_TEXT] => 1. блин со сгущенкой (тесто для блинчиков, молоко сгущенное-50 гр )
+2. блин с икрой (тесто для блинчиков, икра красная-15 гр, масло сливоч-5 гр)
+3. блин с ветчиной и сыром (тесто для блинчиков, ветчина-35 гр, сыр сулугуни-15 гр)
+4. блин с грибами (жульен из цыпленка с грибами)
+5. блин с лососем (тесто для блинчиков, семга с/с-50 гр)
+6. блин с копченой курицей, сыром и помидорами (тесто для блинчиков, куриная грудка копченая-25 гр, сыр сулугуни-10 гр, помидоры-15 гр)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 95223554125854240610
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 770
+                    [PRICE] => 380
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [24] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 510
+                    [IBLOCK_ID] => 10
+                    [NAME] => Хлебная корзинка
+                    [CODE] => khlebnaya-korzinka
+                    [ACTIVE] => Y
+                    [XML_ID] => 59bbcf6e-fda8-4662-ad7c-26cf27241539
+                    [~XML_ID] => 59bbcf6e-fda8-4662-ad7c-26cf27241539
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => хлеба: Кантри, чиабатта Средиземноморская, Альпийский 
+                    [DETAIL_TEXT] => хлеба: Кантри, чиабатта Средиземноморская, Альпийский 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462162
+                    [FATS] => 18.988333333
+                    [PROTEINS] => 8.846666667
+                    [CARBOHYDRATES] => 29.133333333
+                    [CALORIFIC_VALUE] => 127.4
+                    [PRICE] => 60
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [25] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 485
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сан Сабино
+                    [CODE] => san-sabino
+                    [ACTIVE] => Y
+                    [XML_ID] => eab9ee10-1b63-4925-a795-f3888e2157ce
+                    [~XML_ID] => eab9ee10-1b63-4925-a795-f3888e2157ce
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => куриное филе обжареное, шампиньоны, коктейльные креветки, соус на основе сметаны и сливок, пармезан
+                    [DETAIL_TEXT] => куриное филе обжареное, шампиньоны, коктейльные креветки, соус на основе сметаны и сливок, пармезан
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125854469788
+                    [FATS] => 51.423
+                    [PROTEINS] => 36.426
+                    [CARBOHYDRATES] => 88.434
+                    [CALORIFIC_VALUE] => 962.247
+                    [PRICE] => 340
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [26] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 486
+                    [IBLOCK_ID] => 10
+                    [NAME] => Мега бургер
+                    [CODE] => mega-burger
+                    [ACTIVE] => Y
+                    [XML_ID] => 90f1edfc-e979-4ffe-8530-fe047f4074a4
+                    [~XML_ID] => 90f1edfc-e979-4ffe-8530-fe047f4074a4
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => булочка с кунжутом (серая),  котлета (свинина, говядина), помидор, лук репчатый, яйцо, лист салата, маринованный огурец, соус богатырь
+                    [DETAIL_TEXT] => булочка с кунжутом (серая),  котлета (свинина, говядина), помидор, лук репчатый, яйцо, лист салата, маринованный огурец, соус богатырь
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 55223554125854240734
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 260
+                    [PRICE] => 249
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [27] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 487
+                    [IBLOCK_ID] => 10
+                    [NAME] => Цезарь с семгой с/с
+                    [CODE] => tsezar-s-semgoy-s-s
+                    [ACTIVE] => Y
+                    [XML_ID] => a2220b27-323f-4632-b354-bcea3f99a96e
+                    [~XML_ID] => a2220b27-323f-4632-b354-bcea3f99a96e
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => микс салата, томаты черри, крутоны, сёмга с/с, хлопья сыра пармезан и классическая заправка с анчоусами
+                    [DETAIL_TEXT] => микс салата, томаты черри, крутоны, сёмга с/с, хлопья сыра пармезан и классическая заправка с анчоусами
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995578
+                    [FATS] => 50.677
+                    [PROTEINS] => 17.6484
+                    [CARBOHYDRATES] => 8.6966
+                    [CALORIFIC_VALUE] => 561.473
+                    [PRICE] => 440
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [28] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 487
+                    [IBLOCK_ID] => 10
+                    [NAME] => Цезарь с курицей
+                    [CODE] => tsezar-s-kuritsey
+                    [ACTIVE] => Y
+                    [XML_ID] => c627f373-7104-456d-b8ad-7a357d6f9c65
+                    [~XML_ID] => c627f373-7104-456d-b8ad-7a357d6f9c65
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => микс салата, томаты черри, крутоны, куриное филе обжареное, хлопья сыра пармезан и классическая заправка с анчоусами
+                    [DETAIL_TEXT] => микс салата, томаты черри, крутоны, куриное филе обжареное, хлопья сыра пармезан и классическая заправка с анчоусами
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995576
+                    [FATS] => 43.7602
+                    [PROTEINS] => 19.3842
+                    [CARBOHYDRATES] => 8.7164
+                    [CALORIFIC_VALUE] => 506.2398
+                    [PRICE] => 320
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [29] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 488
+                    [IBLOCK_ID] => 10
+                    [NAME] => Борщ
+                    [CODE] => borshch
+                    [ACTIVE] => Y
+                    [XML_ID] => 0628baf8-25d5-4724-915f-17e475a13719
+                    [~XML_ID] => 0628baf8-25d5-4724-915f-17e475a13719
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => традиционный борщ со сметаной, с пампушкой и салом
+                    [DETAIL_TEXT] => традиционный борщ со сметаной, с пампушкой и салом
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995640
+                    [FATS] => 25.56
+                    [PROTEINS] => 17.71
+                    [CARBOHYDRATES] => 36.125
+                    [CALORIFIC_VALUE] => 445.38
+                    [PRICE] => 290
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [30] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 488
+                    [IBLOCK_ID] => 10
+                    [NAME] => Крем суп грибной
+                    [CODE] => krem-sup-gribnoy
+                    [ACTIVE] => Y
+                    [XML_ID] => 47a46171-6d32-48c1-9213-fe1388c84705
+                    [~XML_ID] => 47a46171-6d32-48c1-9213-fe1388c84705
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => шампиньоны, лук, сливки, грибной бульон, молоко 
+                    [DETAIL_TEXT] => шампиньоны, лук, сливки, грибной бульон, молоко 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995598
+                    [FATS] => 41.109
+                    [PROTEINS] => 14.475
+                    [CARBOHYDRATES] => 20.982
+                    [CALORIFIC_VALUE] => 511.803
+                    [PRICE] => 280
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [31] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 511
+                    [IBLOCK_ID] => 10
+                    [NAME] => Плов узбекский
+                    [CODE] => plov-uzbekskiy
+                    [ACTIVE] => Y
+                    [XML_ID] => 6831dbff-3792-4752-891a-30b324b420fc
+                    [~XML_ID] => 6831dbff-3792-4752-891a-30b324b420fc
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => традиционный узбекский плов из сочной говядины
+                    [DETAIL_TEXT] => традиционный узбекский плов из сочной говядины
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995568
+                    [FATS] => 10.764
+                    [PROTEINS] => 39.738
+                    [CARBOHYDRATES] => 133.947
+                    [CALORIFIC_VALUE] => 791.625
+                    [PRICE] => 249
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [32] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 511
+                    [IBLOCK_ID] => 10
+                    [NAME] => Жаркое Уральское
+                    [CODE] => zharkoe-uralskoe
+                    [ACTIVE] => Y
+                    [XML_ID] => 9a69afd7-0ef5-4d98-bfdb-1eb7ac9ffcba
+                    [~XML_ID] => 9a69afd7-0ef5-4d98-bfdb-1eb7ac9ffcba
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => куриное филе обжареное, шампиньоны, помидоры, картофель, сметана, зелень, сливки в лучших традициях Урала
+                    [DETAIL_TEXT] => куриное филе обжареное, шампиньоны, помидоры, картофель, сметана, зелень, сливки в лучших традициях Урала
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125854469686
+                    [FATS] => 27.7025
+                    [PROTEINS] => 20.846
+                    [CARBOHYDRATES] => 19.782
+                    [CALORIFIC_VALUE] => 411.8205
+                    [PRICE] => 335
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [33] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 491
+                    [IBLOCK_ID] => 10
+                    [NAME] => Картофель фри 150 гр
+                    [CODE] => kartofel-fri-150-gr
+                    [ACTIVE] => Y
+                    [XML_ID] => 08e8a2bd-e15d-4adf-b0fd-4ab0a8cde470
+                    [~XML_ID] => 08e8a2bd-e15d-4adf-b0fd-4ab0a8cde470
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => картофель фри с ароматными специями 
+                    [DETAIL_TEXT] => картофель фри с ароматными специями 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462154
+                    [FATS] => 18.8895
+                    [PROTEINS] => 5.4
+                    [CARBOHYDRATES] => 54
+                    [CALORIFIC_VALUE] => 407.61
+                    [PRICE] => 150
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [34] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 491
+                    [IBLOCK_ID] => 10
+                    [NAME] => Картофельные дольки
+                    [CODE] => kartofelnye-dolki
+                    [ACTIVE] => Y
+                    [XML_ID] => dc269d29-9dc5-4a88-a092-e7af069445ac
+                    [~XML_ID] => dc269d29-9dc5-4a88-a092-e7af069445ac
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => запеченые картофельные дольки, обажреные во фритюре
+                    [DETAIL_TEXT] => запеченые картофельные дольки, обажреные во фритюре
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462149
+                    [FATS] => 31.4745
+                    [PROTEINS] => 6.306
+                    [CARBOHYDRATES] => 48.3765
+                    [CALORIFIC_VALUE] => 501.9975
+                    [PRICE] => 150
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [35] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 513
+                    [IBLOCK_ID] => 10
+                    [NAME] => Клюквенный морс 1 л
+                    [CODE] => klyukvennyy-mors-1-l
+                    [ACTIVE] => Y
+                    [XML_ID] => 081d5308-8256-4323-80f5-a0de6b625bb9
+                    [~XML_ID] => 081d5308-8256-4323-80f5-a0de6b625bb9
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854471379
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 140
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [36] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 513
+                    [IBLOCK_ID] => 10
+                    [NAME] => Морс смородиновый 1 л
+                    [CODE] => mors-smorodinovyy-1-l
+                    [ACTIVE] => Y
+                    [XML_ID] => aea00269-3c06-460b-95b2-1edd817bd539
+                    [~XML_ID] => aea00269-3c06-460b-95b2-1edd817bd539
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854471380
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 140
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [37] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 512
+                    [IBLOCK_ID] => 10
+                    [NAME] => Фенси 330 мл
+                    [CODE] => fensi-330-ml
+                    [ACTIVE] => Y
+                    [XML_ID] => a0df40e2-cc3a-43ac-b6fe-af2d9718053f
+                    [~XML_ID] => a0df40e2-cc3a-43ac-b6fe-af2d9718053f
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => сливки, банан, мороженое, черника, сок виноградный
+                    [DETAIL_TEXT] => сливки, банан, мороженое, черника, сок виноградный
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254335854473218
+                    [FATS] => 23.6511
+                    [PROTEINS] => 5.3394
+                    [CARBOHYDRATES] => 23.0901
+                    [CALORIFIC_VALUE] => 444.4968
+                    [PRICE] => 190
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [38] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 512
+                    [IBLOCK_ID] => 10
+                    [NAME] => Черничный  микс 330 мл
+                    [CODE] => chernichnyy-miks-330-ml
+                    [ACTIVE] => Y
+                    [XML_ID] => 435b3198-4483-447d-9d6a-ce7cce0e4618
+                    [~XML_ID] => 435b3198-4483-447d-9d6a-ce7cce0e4618
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => сливки, мороженое, черника, сок вишневый 
+                    [DETAIL_TEXT] => сливки, мороженое, черника, сок вишневый 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854470262
+                    [FATS] => 19.4106
+                    [PROTEINS] => 4.2801
+                    [CARBOHYDRATES] => 10.1409
+                    [CALORIFIC_VALUE] => 359.0004
+                    [PRICE] => 190
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [39] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 515
+                    [IBLOCK_ID] => 10
+                    [NAME] => Семга с/с
+                    [CODE] => semga-s-s
+                    [ACTIVE] => Y
+                    [XML_ID] => 30ed4e47-d8ec-4164-8af7-94ac77a54645
+                    [~XML_ID] => 30ed4e47-d8ec-4164-8af7-94ac77a54645
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => семга слабого посола, оливки, лимон
+                    [DETAIL_TEXT] => семга слабого посола, оливки, лимон
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133334462140
+                    [FATS] => 10.043650794
+                    [PROTEINS] => 17.976984127
+                    [CARBOHYDRATES] => 1.141269841
+                    [CALORIFIC_VALUE] => 166.865873016
+                    [PRICE] => 440
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [40] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 515
+                    [IBLOCK_ID] => 10
+                    [NAME] => Селёдочка пряного посола
+                    [CODE] => selyedochka-pryanogo-posola
+                    [ACTIVE] => Y
+                    [XML_ID] => 4ee40f60-028f-45f7-913e-cd4f1f6b6aa8
+                    [~XML_ID] => 4ee40f60-028f-45f7-913e-cd4f1f6b6aa8
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => картофель отварной, зелень, сельдь с/с, лук репчатый
+                    [DETAIL_TEXT] => картофель отварной, зелень, сельдь с/с, лук репчатый
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995630
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 260
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [41] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 514
+                    [IBLOCK_ID] => 10
+                    [NAME] => Гренки бородинские
+                    [CODE] => grenki-borodinskie
+                    [ACTIVE] => Y
+                    [XML_ID] => 13e09a51-f22d-46ff-a80e-d3d575f52e0d
+                    [~XML_ID] => 13e09a51-f22d-46ff-a80e-d3d575f52e0d
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => ароматные бородинские гренки с чесноком и пряностями; подаются с чесночным соусом
+                    [DETAIL_TEXT] => ароматные бородинские гренки с чесноком и пряностями; подаются с чесночным соусом
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995591
+                    [FATS] => 28.8645
+                    [PROTEINS] => 2.0415
+                    [CARBOHYDRATES] => 1.413
+                    [CALORIFIC_VALUE] => 273.6015
+                    [PRICE] => 170
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [42] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 514
+                    [IBLOCK_ID] => 10
+                    [NAME] => Кольца кальмара
+                    [CODE] => koltsa-kalmara
+                    [ACTIVE] => Y
+                    [XML_ID] => 2c7701dc-3f98-4e7c-83e8-a376f2ad3473
+                    [~XML_ID] => 2c7701dc-3f98-4e7c-83e8-a376f2ad3473
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => кольца в пивном кляре обжаренные во фритюре; подаются с сырным соусом
+                    [DETAIL_TEXT] => кольца в пивном кляре обжаренные во фритюре; подаются с сырным соусом
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254125869995594
+                    [FATS] => 46.887
+                    [PROTEINS] => 26.353
+                    [CARBOHYDRATES] => 8.393
+                    [CALORIFIC_VALUE] => 560.967
+                    [PRICE] => 290
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [43] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 496
+                    [IBLOCK_ID] => 10
+                    [NAME] => Блинчики (3 шт)
+                    [CODE] => blinchiki-3-sht
+                    [ACTIVE] => Y
+                    [XML_ID] => ea1113ae-bea0-4fca-be5b-b888367c44eb
+                    [~XML_ID] => ea1113ae-bea0-4fca-be5b-b888367c44eb
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632803
+                    [FATS] => 9.9456
+                    [PROTEINS] => 7.6524
+                    [CARBOHYDRATES] => 30.9561
+                    [CALORIFIC_VALUE] => 243.9507
+                    [PRICE] => 75
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [44] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 496
+                    [IBLOCK_ID] => 10
+                    [NAME] => Тирамису
+                    [CODE] => tiramisu
+                    [ACTIVE] => Y
+                    [XML_ID] => b7912dc7-525c-4d48-9aaa-49af6ff82176
+                    [~XML_ID] => b7912dc7-525c-4d48-9aaa-49af6ff82176
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => какао, сливки, итальянское печенье, яйцо, кофе, сахарная пудра, мята
+                    [DETAIL_TEXT] => какао, сливки, итальянское печенье, яйцо, кофе, сахарная пудра, мята
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632855
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 334.5
+                    [PRICE] => 230
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [45] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 493
+                    [IBLOCK_ID] => 10
+                    [NAME] => Веселый человечек
+                    [CODE] => veselyy-chelovechek
+                    [ACTIVE] => Y
+                    [XML_ID] => 3b9ff1a1-924f-46e1-86c1-dc2e83d98be0
+                    [~XML_ID] => 3b9ff1a1-924f-46e1-86c1-dc2e83d98be0
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => молочная сосиска, соус Барбекю, спагетти
+                    [DETAIL_TEXT] => молочная сосиска, соус Барбекю, спагетти
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632863
+                    [FATS] => 12.1992
+                    [PROTEINS] => 9.7668
+                    [CARBOHYDRATES] => 25.4124
+                    [CALORIFIC_VALUE] => 250.5072
+                    [PRICE] => 150
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [46] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 493
+                    [IBLOCK_ID] => 10
+                    [NAME] => Веселая матрешка
+                    [CODE] => veselaya-matreshka
+                    [ACTIVE] => Y
+                    [XML_ID] => 4e86d273-a354-411c-9eae-a02b9db6267b
+                    [~XML_ID] => 4e86d273-a354-411c-9eae-a02b9db6267b
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632865
+                    [FATS] => 2.5
+                    [PROTEINS] => 1.25
+                    [CARBOHYDRATES] => 11.25
+                    [CALORIFIC_VALUE] => 72.5
+                    [PRICE] => 100
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [47] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 497
+                    [IBLOCK_ID] => 10
+                    [NAME] => Фирменный
+                    [CODE] => firmennyy
+                    [ACTIVE] => Y
+                    [XML_ID] => 1c75767d-f418-4acb-b115-e91a6cff6c9a
+                    [~XML_ID] => 1c75767d-f418-4acb-b115-e91a6cff6c9a
+                    [SORT] => 0
+                    [PREVIEW_TEXT] => острый томатный соус
+                    [DETAIL_TEXT] => острый томатный соус
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99864254133366632890
+                    [FATS] => 0.404
+                    [PROTEINS] => 0.874
+                    [CARBOHYDRATES] => 4.297
+                    [CALORIFIC_VALUE] => 24.32
+                    [PRICE] => 50
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [48] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 497
+                    [IBLOCK_ID] => 10
+                    [NAME] => Кетчуп
+                    [CODE] => ketchup
+                    [ACTIVE] => Y
+                    [XML_ID] => 018f6a6b-7ba7-4517-9567-ab56d0f97911
+                    [~XML_ID] => 018f6a6b-7ba7-4517-9567-ab56d0f97911
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 15152453328805773591
+                    [FATS] => 0.1
+                    [PROTEINS] => 0.6
+                    [CARBOHYDRATES] => 8.95
+                    [CALORIFIC_VALUE] => 38.75
+                    [PRICE] => 50
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [49] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 492
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ассорти гриль 1 кг ТЕСТ
+                    [CODE] => assorti-gril-1-kg-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 569df5d9-836a-477a-af82-ef3fd00d49e8
+                    [~XML_ID] => 569df5d9-836a-477a-af82-ef3fd00d49e8
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => Картофель фри, шашлык из телятины, свиные ребра, язык на гриле, куриные колбаски, куриные крылья
+                    [DETAIL_TEXT] => Картофель фри, шашлык из телятины, свиные ребра, язык на гриле, куриные колбаски, куриные крылья
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471306
+                    [FATS] => 117.28
+                    [PROTEINS] => 185.29
+                    [CARBOHYDRATES] => 45
+                    [CALORIFIC_VALUE] => 1977.05
+                    [PRICE] => 2100
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [50] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 504
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык из свинины ТЕСТ
+                    [CODE] => shashlyk-iz-svininy-test
+                    [ACTIVE] => Y
+                    [XML_ID] => b89afffa-5fd0-4b44-9d3e-49e4123365b9
+                    [~XML_ID] => b89afffa-5fd0-4b44-9d3e-49e4123365b9
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => нежное свиная шея в пряном маринаде, минимальный выход порции от 0,200 гр
+                    [DETAIL_TEXT] => нежное свиная шея в пряном маринаде, минимальный выход порции от 0,200 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471307
+                    [FATS] => 36.175
+                    [PROTEINS] => 19.829
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 404.891
+                    [PRICE] => 220
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [51] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 504
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык из курицы ТЕСТ
+                    [CODE] => shashlyk-iz-kuritsy-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 0c4d0eae-43de-487d-892f-d2073e03e243
+                    [~XML_ID] => 0c4d0eae-43de-487d-892f-d2073e03e243
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => нежное куриное бедро в пряном маринаде, минимальный выход порции от 0,200 гр
+                    [DETAIL_TEXT] => нежное куриное бедро в пряном маринаде, минимальный выход порции от 0,200 гр
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471308
+                    [FATS] => 13.583
+                    [PROTEINS] => 22.869
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 213.723
+                    [PRICE] => 140
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [52] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 485
+                    [IBLOCK_ID] => 10
+                    [NAME] => Фрутти де Маре ТЕСТ
+                    [CODE] => frutti-de-mare-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 69307c55-ed43-404d-8536-2d5decf1ecd8
+                    [~XML_ID] => 69307c55-ed43-404d-8536-2d5decf1ecd8
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => чёрные спагетти Нери с морепродуктами, чёрными мидиями в красном винном соусе, с добавлением пармезана и пикантного томатного соуса 
+                    [DETAIL_TEXT] => чёрные спагетти Нери с морепродуктами, чёрными мидиями в красном винном соусе, с добавлением пармезана и пикантного томатного соуса 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471304
+                    [FATS] => 29.292
+                    [PROTEINS] => 26.949
+                    [CARBOHYDRATES] => 52.71
+                    [CALORIFIC_VALUE] => 582.252
+                    [PRICE] => 390
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [53] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 485
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сан Сабино ТЕСТ
+                    [CODE] => san-sabino-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 023d86a3-d46d-4f28-b5f0-f1e2faf6c90a
+                    [~XML_ID] => 023d86a3-d46d-4f28-b5f0-f1e2faf6c90a
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => куриное филе обжареное, шампиньоны, коктейльные креветки, соус на основе сметаны и сливок, пармезан
+                    [DETAIL_TEXT] => куриное филе обжареное, шампиньоны, коктейльные креветки, соус на основе сметаны и сливок, пармезан
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471305
+                    [FATS] => 51.423
+                    [PROTEINS] => 36.426
+                    [CARBOHYDRATES] => 88.434
+                    [CALORIFIC_VALUE] => 962.247
+                    [PRICE] => 340
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [54] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 507
+                    [IBLOCK_ID] => 10
+                    [NAME] => Пирог с джемом сдобный 1кг ТЕСТ
+                    [CODE] => pirog-s-dzhemom-sdobnyy-1kg-test
+                    [ACTIVE] => Y
+                    [XML_ID] => c99cb555-e12f-4337-a521-06f62e64e3ab
+                    [~XML_ID] => c99cb555-e12f-4337-a521-06f62e64e3ab
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => сдобное тесто с ароматным джемом из натуральных ягод и фруктов
+                    [DETAIL_TEXT] => сдобное тесто с ароматным джемом из натуральных ягод и фруктов
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471311
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 400
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [55] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 508
+                    [IBLOCK_ID] => 10
+                    [NAME] => Хачапури из слоенного теста ТЕСТ
+                    [CODE] => khachapuri-iz-sloennogo-testa-test
+                    [ACTIVE] => Y
+                    [XML_ID] => d7e868a2-5f69-4180-8e70-c01cc0eb8493
+                    [~XML_ID] => d7e868a2-5f69-4180-8e70-c01cc0eb8493
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => слоеное тесто с сыром Сулугуни 
+                    [DETAIL_TEXT] => слоеное тесто с сыром Сулугуни 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471312
+                    [FATS] => 67.207
+                    [PROTEINS] => 40.6455
+                    [CARBOHYDRATES] => 102.858
+                    [CALORIFIC_VALUE] => 1178.884
+                    [PRICE] => 350
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [56] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 481
+                    [IBLOCK_ID] => 10
+                    [NAME] => Вегетариана  ТЕСТ
+                    [CODE] => vegetariana-test
+                    [ACTIVE] => Y
+                    [XML_ID] => c8236035b54926131148b011d08769bb
+                    [~XML_ID] => c8236035b54926131148b011d08769bb
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => Пикантный томатный соус, сыр, грибы, перец болгарский, маслины, сушеный базилик 
+                    [DETAIL_TEXT] => Пикантный томатный соус, сыр, грибы, перец болгарский, маслины, сушеный базилик 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471291
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [VALUE] => 25 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 360
+                                            [CODE] => 99866664125854471291
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [VALUE] => 30 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 460
+                                            [CODE] => 99866664125854471292
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [FATS] => 31.2825
+                    [PROTEINS] => 49.9703
+                    [CARBOHYDRATES] => 103.1054
+                    [CALORIFIC_VALUE] => 893.841
+                    [PRICE] => 360
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => 60ba414b-d5ee-4dd5-ac8d-fac8fa3c2060
+                                            [VALUE] => -пышное ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 50
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471268
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 58c6aaaa-d844-4379-b95c-d42f0a81ac62
+                                            [VALUE] => -тонкое ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 0
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471270
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                )
+
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => c2c5433c-39f6-4f03-8373-0a865ef607b8
+                                            [VALUE] => -доп.ананас 20 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 20
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471273
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 318763f0-cdc3-4c97-bd0e-1409b0534dbb
+                                            [VALUE] => -доп.ветчина 60 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471274
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [ID] => 8a6394c8-2890-42ca-8c1a-aaa259aaffe6
+                                            [VALUE] => -доп.зелень 3 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 15
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471275
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [ID] => fcdcf6d8-8f02-4032-852f-9759ed530851
+                                            [VALUE] => -доп.колбаски охотничьи 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471276
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [ID] => 7b4e8872-d71f-4590-b878-9fd18b66ec50
+                                            [VALUE] => -доп.сыр к пицце 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 30
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471277
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [57] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 481
+                    [IBLOCK_ID] => 10
+                    [NAME] => Бусола  ТЕСТ
+                    [CODE] => busola-test
+                    [ACTIVE] => Y
+                    [XML_ID] => e3702e57ae976833816249a88d04f09d
+                    [~XML_ID] => e3702e57ae976833816249a88d04f09d
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => Пикантный томатный соус, сыр, ветчина, креветки коктейльные, сушеный базилик
+                    [DETAIL_TEXT] => Пикантный томатный соус, сыр, ветчина, креветки коктейльные, сушеный базилик
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471290
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [VALUE] => 25 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 435
+                                            [CODE] => 99866664125854471290
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [VALUE] => 30 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 535
+                                            [CODE] => 99866664125854471285
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [FATS] => 51.495
+                    [PROTEINS] => 66.385
+                    [CARBOHYDRATES] => 99.645
+                    [CALORIFIC_VALUE] => 1127.595
+                    [PRICE] => 435
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => 60ba414b-d5ee-4dd5-ac8d-fac8fa3c2060
+                                            [VALUE] => -пышное ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 50
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471268
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 58c6aaaa-d844-4379-b95c-d42f0a81ac62
+                                            [VALUE] => -тонкое ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 0
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471270
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                )
+
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => c2c5433c-39f6-4f03-8373-0a865ef607b8
+                                            [VALUE] => -доп.ананас 20 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 20
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471273
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 318763f0-cdc3-4c97-bd0e-1409b0534dbb
+                                            [VALUE] => -доп.ветчина 60 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471274
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [ID] => 8a6394c8-2890-42ca-8c1a-aaa259aaffe6
+                                            [VALUE] => -доп.зелень 3 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 15
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471275
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [ID] => fcdcf6d8-8f02-4032-852f-9759ed530851
+                                            [VALUE] => -доп.колбаски охотничьи 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471276
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [ID] => 7b4e8872-d71f-4590-b878-9fd18b66ec50
+                                            [VALUE] => -доп.сыр к пицце 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 30
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471277
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [58] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 481
+                    [IBLOCK_ID] => 10
+                    [NAME] => Азия  ТЕСТ
+                    [CODE] => aziya-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 7b986e9c595dc15d8205346716e8a75f
+                    [~XML_ID] => 7b986e9c595dc15d8205346716e8a75f
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => Пикантный томатный соус, сыр, говяжья шейка, помидор, сушеный базилик
+                    [DETAIL_TEXT] => Пикантный томатный соус, сыр, говяжья шейка, помидор, сушеный базилик
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471271
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [VALUE] => 25 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 390
+                                            [CODE] => 99866664125854471271
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [VALUE] => 30 см
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 590
+                                            [CODE] => 99866664125854471284
+                                            [PROP] => Размер
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [SORT] => 0
+                                        )
+
+                                )
+
+                        )
+
+                    [FATS] => 37.14832576
+                    [PROTEINS] => 66.72974812
+                    [CARBOHYDRATES] => 103.64777682
+                    [CALORIFIC_VALUE] => 1015.81213202
+                    [PRICE] => 390
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => 60ba414b-d5ee-4dd5-ac8d-fac8fa3c2060
+                                            [VALUE] => -пышное ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 50
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471268
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 58c6aaaa-d844-4379-b95c-d42f0a81ac62
+                                            [VALUE] => -тонкое ТЕСТ
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 0
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471270
+                                            [SORT] => 0
+                                            [PROP] => Толщина
+                                        )
+
+                                )
+
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [ID] => c2c5433c-39f6-4f03-8373-0a865ef607b8
+                                            [VALUE] => -доп.ананас 20 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 20
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471273
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [ID] => 318763f0-cdc3-4c97-bd0e-1409b0534dbb
+                                            [VALUE] => -доп.ветчина 60 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471274
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [2] => Array
+                                        (
+                                            [ID] => 8a6394c8-2890-42ca-8c1a-aaa259aaffe6
+                                            [VALUE] => -доп.зелень 3 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 15
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471275
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [3] => Array
+                                        (
+                                            [ID] => fcdcf6d8-8f02-4032-852f-9759ed530851
+                                            [VALUE] => -доп.колбаски охотничьи 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 80
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471276
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                    [4] => Array
+                                        (
+                                            [ID] => 7b4e8872-d71f-4590-b878-9fd18b66ec50
+                                            [VALUE] => -доп.сыр к пицце 50 г
+                                            [DESCRIPTION] => 
+                                            [PRICE] => 30
+                                            [WEIGHT] => 
+                                            [DEF] => N
+                                            [CODE] => 99866664125854471277
+                                            [SORT] => 0
+                                            [PROP] => Ингридиенты
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [59] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 499
+                    [IBLOCK_ID] => 10
+                    [NAME] => Пепперони (Острая) ТЕСТ
+                    [CODE] => pepperoni-ostraya-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 3f7202a7-61ea-4f5e-bded-53a37504d20f
+                    [~XML_ID] => 3f7202a7-61ea-4f5e-bded-53a37504d20f
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => Фирменый соус, салями, салями острая, сыр, красный молотый перец, смесь перцев, паприка молотая
+                    [DETAIL_TEXT] => Фирменый соус, салями, салями острая, сыр, красный молотый перец, смесь перцев, паприка молотая
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471297
+                    [FATS] => 47.056
+                    [PROTEINS] => 53.348
+                    [CARBOHYDRATES] => 95.884
+                    [CALORIFIC_VALUE] => 1020.432
+                    [PRICE] => 499
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [60] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 499
+                    [IBLOCK_ID] => 10
+                    [NAME] => Кузьмич ТЕСТ
+                    [CODE] => kuzmich-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 8f41e972-a499-4748-a1ed-96cd07e91920
+                    [~XML_ID] => 8f41e972-a499-4748-a1ed-96cd07e91920
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => Томат, зелень, салями, ветчина, маринованные огурцы, сыр, майонез, сметана, пышное тесто
+                    [DETAIL_TEXT] => Томат, зелень, салями, ветчина, маринованные огурцы, сыр, майонез, сметана, пышное тесто
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471296
+                    [FATS] => 50.87643608
+                    [PROTEINS] => 57.03648888
+                    [CARBOHYDRATES] => 168.27444234
+                    [CALORIFIC_VALUE] => 1359.10364936
+                    [PRICE] => 249
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [61] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 480
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ролл Эфиоп ТЕСТ
+                    [CODE] => roll-efiop-test
+                    [ACTIVE] => Y
+                    [XML_ID] => fafd3b3c-2033-4825-a8db-1b0cd53d2eff
+                    [~XML_ID] => fafd3b3c-2033-4825-a8db-1b0cd53d2eff
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => нори, рис, 
+                    [DETAIL_TEXT] => нори, рис, 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471294
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 150
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [62] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 480
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ролл Пармезан ТЕСТ
+                    [CODE] => roll-parmezan-test
+                    [ACTIVE] => Y
+                    [XML_ID] => da541918-838a-421c-be0d-170a12cfef99
+                    [~XML_ID] => da541918-838a-421c-be0d-170a12cfef99
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471293
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 120
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [63] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 480
+                    [IBLOCK_ID] => 10
+                    [NAME] => Ролл Бонито ТЕСТ
+                    [CODE] => roll-bonito-test
+                    [ACTIVE] => Y
+                    [XML_ID] => ae971196-c10b-45a5-b076-f3df292d5933
+                    [~XML_ID] => ae971196-c10b-45a5-b076-f3df292d5933
+                    [SORT] => 4
+                    [PREVIEW_TEXT] => 
+                    [DETAIL_TEXT] => 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471295
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 159
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [64] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 500
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет Настоящая Фуди ТЕСТ
+                    [CODE] => set-nastoyashchaya-fudi-test
+                    [ACTIVE] => Y
+                    [XML_ID] => fdea6d82-1390-4429-bbd0-13a20768be8a
+                    [~XML_ID] => fdea6d82-1390-4429-bbd0-13a20768be8a
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => роллы: ПИРАМИДА (рис, нори, сливочный сыр, лосось), РОЛЛ ПОД ШУБОЙ (рис, нори, куриное филе копченое, огурец, томат, майонез, кляр, сухари панировачные), ЗАПЕЧЕННЫЙ С КУРИЦЕЙ (рис, нори, сыр сливочный, омлет, кунжут, куриное филе копченое, майонез, соус Унаги, зелень), СЯКЕ МАКЕ (рис, нори, лосось), ФЕТА (нори, сыр фета, лосось, кунжут, огурец, тобико) * БЕЗ ИМБИРЯ, ВАСАБИ, СОЕВОГО СОУСА
+                    [DETAIL_TEXT] => роллы: ПИРАМИДА (рис, нори, сливочный сыр, лосось), РОЛЛ ПОД ШУБОЙ (рис, нори, куриное филе копченое, огурец, томат, майонез, кляр, сухари панировачные), ЗАПЕЧЕННЫЙ С КУРИЦЕЙ (рис, нори, сыр сливочный, омлет, кунжут, куриное филе копченое, майонез, соус Унаги, зелень), СЯКЕ МАКЕ (рис, нори, лосось), ФЕТА (нори, сыр фета, лосось, кунжут, огурец, тобико) * БЕЗ ИМБИРЯ, ВАСАБИ, СОЕВОГО СОУСА
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471298
+                    [FATS] => 51.497
+                    [PROTEINS] => 90.16
+                    [CARBOHYDRATES] => 758.5975
+                    [CALORIFIC_VALUE] => 3858.457
+                    [PRICE] => 799
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [65] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 500
+                    [IBLOCK_ID] => 10
+                    [NAME] => Сет Пикачу ТЕСТ
+                    [CODE] => set-pikachu-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 4ed5bfba-a11a-4793-a709-a7d8e8d759ac
+                    [~XML_ID] => 4ed5bfba-a11a-4793-a709-a7d8e8d759ac
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => роллы: ФИЛАДЕЛЬФИЯ С ОГУРЦОМ (рис, нори, огурец, лосось, сливочный сыр), КАЛИФОРНИЯ НЬЮ (рис, нори, сыр сливочный, огурец, крабовые палочки, кунжут, лосось, икра летучей рыбы), ТАМАГО СПАЙСИ (рис, нори, сливочный сыр, томаго, кунжут, спайси соус), КИОТО (рис, нори, сливочный сыр, огурец, семга п/к, кляр), ЛАВА (рис, нори, лосось, сливочный сыр, соус лава) * БЕЗ ИМБИРЯ, ВАСАБИ, СОЕВОГО СОУСА
+                    [DETAIL_TEXT] => роллы: ФИЛАДЕЛЬФИЯ С ОГУРЦОМ (рис, нори, огурец, лосось, сливочный сыр), КАЛИФОРНИЯ НЬЮ (рис, нори, сыр сливочный, огурец, крабовые палочки, кунжут, лосось, икра летучей рыбы), ТАМАГО СПАЙСИ (рис, нори, сливочный сыр, томаго, кунжут, спайси соус), КИОТО (рис, нори, сливочный сыр, огурец, семга п/к, кляр), ЛАВА (рис, нори, лосось, сливочный сыр, соус лава) * БЕЗ ИМБИРЯ, ВАСАБИ, СОЕВОГО СОУСА
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471299
+                    [FATS] => 50.6014
+                    [PROTEINS] => 88.592
+                    [CARBOHYDRATES] => 745.4045
+                    [CALORIFIC_VALUE] => 3791.3534
+                    [PRICE] => 749
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [66] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 498
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык крылья куриные 1 кг 200 гр ТЕСТ
+                    [CODE] => shashlyk-krylya-kurinye-1-kg-200-gr-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 39edaa02-3b45-4562-b8ae-efa0f3bb22b9
+                    [~XML_ID] => 39edaa02-3b45-4562-b8ae-efa0f3bb22b9
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => шашлык из куриных крыльев 1 кг, капуста Ким-чи 200 гр 
+                    [DETAIL_TEXT] => шашлык из куриных крыльев 1 кг, капуста Ким-чи 200 гр 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471310
+                    [FATS] => 111.624
+                    [PROTEINS] => 339.204
+                    [CARBOHYDRATES] => 10.872
+                    [CALORIFIC_VALUE] => 2404.884
+                    [PRICE] => 699
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [67] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 498
+                    [IBLOCK_ID] => 10
+                    [NAME] => Шашлык куриное бедро 1 кг+хачапури ТЕСТ
+                    [CODE] => shashlyk-kurinoe-bedro-1-kg-khachapuri-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 334bac53-623d-4126-aad6-28c1bfd5e36e
+                    [~XML_ID] => 334bac53-623d-4126-aad6-28c1bfd5e36e
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => шашлык из куриного бедра 1 кг + хачапури
+                    [DETAIL_TEXT] => шашлык из куриного бедра 1 кг + хачапури
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471309
+                    [FATS] => 111.624
+                    [PROTEINS] => 339.204
+                    [CARBOHYDRATES] => 10.872
+                    [CALORIFIC_VALUE] => 2404.884
+                    [PRICE] => 750
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [68] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 489
+                    [IBLOCK_ID] => 10
+                    [NAME] => Удон с курицей ТЕСТ
+                    [CODE] => udon-s-kuritsey-test
+                    [ACTIVE] => Y
+                    [XML_ID] => c82aaa69-6b7d-4fc0-b9a6-1af4e2c33d8a
+                    [~XML_ID] => c82aaa69-6b7d-4fc0-b9a6-1af4e2c33d8a
+                    [SORT] => 1
+                    [PREVIEW_TEXT] => морковь, цукини, баклажан, перец болгарский, лук, чеснок, кунжут, пшеничная лапша, соус Яки удон, куриное филе обжареное (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                    [DETAIL_TEXT] => морковь, цукини, баклажан, перец болгарский, лук, чеснок, кунжут, пшеничная лапша, соус Яки удон, куриное филе обжареное (ПН по ЧТ, ДАННОЕ БЛЮДО СТОИТ 199 РУБ, с 13-00 до 17-00 времени)
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471303
+                    [FATS] => 17.7336
+                    [PROTEINS] => 24.1245
+                    [CARBOHYDRATES] => 44.5041
+                    [CALORIFIC_VALUE] => 434.1141
+                    [PRICE] => 280
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [69] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 489
+                    [IBLOCK_ID] => 10
+                    [NAME] => Удон с говядиной ТЕСТ
+                    [CODE] => udon-s-govyadinoy-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 718c7839-034f-4703-ab94-804983747e62
+                    [~XML_ID] => 718c7839-034f-4703-ab94-804983747e62
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => пшеничная лапша, кунжут, перец болгарский, баклажан, цукини, лук, говядина, чеснок, морковь, соус Яки удон 
+                    [DETAIL_TEXT] => пшеничная лапша, кунжут, перец болгарский, баклажан, цукини, лук, говядина, чеснок, морковь, соус Яки удон 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471302
+                    [FATS] => 19.4805
+                    [PROTEINS] => 21.9213
+                    [CARBOHYDRATES] => 44.5041
+                    [CALORIFIC_VALUE] => 441.0288
+                    [PRICE] => 360
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [70] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 502
+                    [IBLOCK_ID] => 10
+                    [NAME] => Пирамида 4 шт ТЕСТ
+                    [CODE] => piramida-4-sht-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 0303eb4d-d52d-4e2a-aa0e-9f2652aab09e
+                    [~XML_ID] => 0303eb4d-d52d-4e2a-aa0e-9f2652aab09e
+                    [SORT] => 2
+                    [PREVIEW_TEXT] => рис, нори, сливочный сыр, лосось
+                    [DETAIL_TEXT] => рис, нори, сливочный сыр, лосось
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471300
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 180
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+    [71] => Array
+        (
+            [ITEM] => Array
+                (
+                    [IBLOCK_SECTION_ID] => 502
+                    [IBLOCK_ID] => 10
+                    [NAME] => Лава 4 шт ТЕСТ
+                    [CODE] => lava-4-sht-test
+                    [ACTIVE] => Y
+                    [XML_ID] => 8eb6d5ac-1dc8-4534-9df5-37f92b9571ef
+                    [~XML_ID] => 8eb6d5ac-1dc8-4534-9df5-37f92b9571ef
+                    [SORT] => 3
+                    [PREVIEW_TEXT] => рис, нори, лосось, сливочный сыр, соус лава 
+                    [DETAIL_TEXT] => рис, нори, лосось, сливочный сыр, соус лава 
+                )
+
+            [PROPERTIES] => Array
+                (
+                    [PRODUCT_CODE] => 99866664125854471301
+                    [FATS] => 0
+                    [PROTEINS] => 0
+                    [CARBOHYDRATES] => 0
+                    [CALORIFIC_VALUE] => 0
+                    [PRICE] => 169
+                    [BD_PROPS_1] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_2] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                    [BD_PROPS_3] => Array
+                        (
+                            [VALUE] => 
+                        )
+
+                )
+
+        )
+
+)

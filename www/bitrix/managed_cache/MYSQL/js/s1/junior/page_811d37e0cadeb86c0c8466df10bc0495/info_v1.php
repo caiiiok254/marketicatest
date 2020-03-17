@@ -1,0 +1,1 @@
+<? $filesInfo = array("/local/components/junior/product.list/templates/.default/script.js" => "1584430464345",); ?>

@@ -1,5 +1,6 @@
 <?if(!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED!==true)die();?>
 <?CJSCore::Init(array("jquery"));?>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <div class="product__wrap">
     <h2 class="product__title"><?=$arResult["NAME"]?></h2>
     <div class="product-list">
@@ -10,7 +11,10 @@
         $this->AddEditAction($arItem['ID'], $arItem['ADD_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_ADD"));
         $this->AddEditAction($arItem['ID'], $arItem['EDIT_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_EDIT"));
         $this->AddDeleteAction($arItem['ID'], $arItem['DELETE_LINK'], CIBlock::GetArrayByID($arItem["IBLOCK_ID"], "ELEMENT_DELETE"), array("CONFIRM" => GetMessage('CT_BNL_ELEMENT_DELETE_CONFIRM')));
-	?> 
+	?>
+        <? $db_props = CIBlockElement::GetProperty($arItem["IBLOCK_ID"], $arItem["ID"], "sort", "asc", array()); ?>
+        <? $ar_props = $db_props->Fetch(); ?>
+
         <div class="product-list__item">
 			<div class="product-list__wrap" id="<?=$this->GetEditAreaId($arItem['ID']);?>">				
 				<div id="<?=$arItem["ID"]?>" class="fancybox-productPopup" href="javascript:;"><img class="product-list__img" src="<?=$arItem["PREVIEW_PICTURE"]["SRC"]?>" alt="..." /></div>
@@ -18,9 +22,10 @@
 				<div class="product__spoiler">
 					<div class="btn-spolier onSpoiler ">Описание</div>
 					<div class="product__spoilerbox spoiler-hide">				
-							<div class="product-text__valign"><?=$arItem["~PREVIEW_TEXT"]?></div>				
+                        <div class="product-text__valign"><?=$arItem["~PREVIEW_TEXT"]?></div>
 					</div>
 				</div>
+                <h2>Цена: <?=$ar_props["VALUE"]?></h2>
 			</div>
         </div>
         <?}}?>        

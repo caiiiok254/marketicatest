@@ -4,6 +4,7 @@ CJSCore::Init(array("jquery"));
 $APPLICATION->SetAdditionalCss("/local/assets/fancybox/jquery.fancybox.min.css");
 $APPLICATION->AddHeadScript("/local/assets/fancybox/jquery.fancybox.min.js");
 ?>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <div class="product__wrap">
     <h2 class="product__title"><?=$arResult["NAME"]?></h2>
     <div class="product-list">
